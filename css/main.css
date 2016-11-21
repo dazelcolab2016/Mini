@@ -29,8 +29,27 @@ nav.navbar{
 .hero div {
    transform:translateY(100%); 
 }
-.caja-size div spam{
-   width: 300px;
-   height: 
+.boton{
+    background: :rgb(235,188,47);
+    color: #fff;
+    display: inline-block;
+    text-transform: uppercase;
+    
+}
+
+.contenido{
+    background: #dfdfdf;
+    padding: 80px 0 10px 0;
+}
+.bloque-ejemplo{
+    background: #FFF;
+   padding: 20px;
+    margin-bottom: 20px;
+    
+}
+.footer{
+    background-color: black;
+    color: #CCC;
+    
 }
 
