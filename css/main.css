@@ -47,9 +47,10 @@ nav.navbar{
     margin-bottom: 20px;
     
 }
-.footer{
-    background-color: black;
+footer{
+    background: #000;
     color: #CCC;
+   padding-top: 20px;
     
 }
 
